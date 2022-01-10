@@ -1,0 +1,22 @@
+{
+    "name": "lit-start",
+    "displayName": "lit-class-starter",
+    "description": "A snippet for generating lit element boiler plate class.",
+    "version": "1.0.0",
+    "publisher": "SurajRegmi",
+    "icon": "11639138.png",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
