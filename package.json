@@ -2,7 +2,7 @@
     "name": "lit-start",
     "displayName": "lit-class-starter",
     "description": "A snippet for generating lit element boiler plate class.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "SurajRegmi",
     "icon": "11639138.png",
     "engines": {
