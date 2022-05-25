@@ -1,0 +1,16 @@
+{
+  "General boiler component proptery": {
+    "prefix": "prop",
+    "body": [
+      "/** ",
+      " * ${3:Description}.",
+      " *",
+      " * @type {{ $1: $2 }}",
+      " */",
+      "${1:key}: { type: ${2:Type} }",
+      "",
+      "$0"
+    ],
+    "description": "Create polymer property."
+  }
+}

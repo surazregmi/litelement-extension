@@ -16,6 +16,10 @@
             {
                 "language": "javascript",
                 "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/properties.code-snippets"
             }
         ]
     }
