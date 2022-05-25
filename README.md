@@ -4,8 +4,14 @@ Hello litElement users. I have created this vs code extension for making you guy
 
 ## Demo
 
+### 1. Creating Lit class component using `litstart`.
 <a href="https://imgur.com/bgLsGp1">
-    <img  src="https://i.imgur.com/bgLsGp1.gif">
+    <img src="https://i.imgur.com/bgLsGp1.gif">
+</a>
+
+### 2. Adding property to the lit component using `prop`.
+<a href="https://imgur.com/36i1gLC">
+    <img src="https://i.imgur.com/36i1gLC.gif">
 </a>
 
 ### 1.0.0
